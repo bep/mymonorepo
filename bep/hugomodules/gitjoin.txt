@@ -1,0 +1,2 @@
+github.com/bep/hugo-mod-misc
+github.com/bep/hugo-starter-bootstrap-basic

@@ -1,0 +1,4 @@
+github.com/bep/bepsays.com
+github.com/bep/staticbattery.com
+github.com/bep/bep.is
+github.com/bep/bep.consulting

@@ -1,0 +1,2 @@
+github.com/gohugoio/hugoreleaser
+github.com/gohugoio/hugoreleaser-archive-plugins

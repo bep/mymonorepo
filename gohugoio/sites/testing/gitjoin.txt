@@ -1,0 +1,2 @@
+github.com/bep/hugo-testing-git-versions
+github.com/gohugoio/hugoTestModulesJS

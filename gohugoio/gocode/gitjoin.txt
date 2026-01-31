@@ -1,0 +1,7 @@
+github.com/gohugoio/gift
+github.com/gohugoio/go-i18n
+github.com/gohugoio/go-radix
+github.com/gohugoio/hashstructure
+github.com/gohugoio/httpcache
+github.com/gohugoio/hugo
+github.com/gohugoio/hugo-goldmark-extensions
