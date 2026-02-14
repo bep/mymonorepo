@@ -7,6 +7,7 @@ github.com/bep/gobench
 github.com/bep/gomaintemplate
 github.com/bep/goportabletext
 github.com/bep/gorder
+github.com/bep/helpercommands
 github.com/bep/killswitch
 github.com/bep/mclib
 github.com/bep/mygithelper

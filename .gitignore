@@ -43,6 +43,7 @@ bep/gocode/apps/gobench/
 bep/gocode/apps/gomaintemplate/
 bep/gocode/apps/goportabletext/
 bep/gocode/apps/gorder/
+bep/gocode/apps/helpercommands/
 bep/gocode/apps/killswitch/
 bep/gocode/apps/mclib/
 bep/gocode/apps/mygithelper/
