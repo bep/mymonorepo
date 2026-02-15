@@ -14,4 +14,4 @@ github.com/bep/mygithelper
 github.com/bep/nogo
 github.com/bep/npmgoproxy
 github.com/bep/punused
-github.com/bep/s3deploy
+github.com/bep/myhugofixer

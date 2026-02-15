@@ -34,6 +34,7 @@ go.work.sum
 
 # Managed by gitjoin - do not edit this section
 bep/demosites/hugojsbatchdemo/
+bep/gocode/apps/awsapps/s3deploy/
 bep/gocode/apps/backup/
 bep/gocode/apps/clocks/
 bep/gocode/apps/create-a-million-pages/
@@ -51,28 +52,15 @@ bep/gocode/apps/mygithelper/gocode/firstupdotenv/
 bep/gocode/apps/nogo/
 bep/gocode/apps/npmgoproxy/
 bep/gocode/apps/punused/
-bep/gocode/apps/s3deploy/
 bep/gocode/libs/debounce/
 bep/gocode/libs/execrpc/
 bep/gocode/libs/gitmap/
-bep/gocode/libs/goat/
 bep/gocode/libs/gobench/
 bep/gocode/libs/godartsass/
 bep/gocode/libs/gojap/
 bep/gocode/libs/golibsass/
 bep/gocode/libs/golibtemplate/
-bep/gocode/libs/gowebp/
-bep/gocode/libs/helpers/
 bep/gocode/libs/imagemeta/
-bep/gocode/libs/lazycache/
-bep/gocode/libs/logg/
-bep/gocode/libs/overlayfs/
-bep/gocode/libs/predicate/
-bep/gocode/libs/semverpair/
-bep/gocode/libs/simplecobra/
-bep/gocode/libs/textandbinarywriter/
-bep/gocode/libs/tmc/
-bep/gocode/libs/triebytesmapper/
 bep/gocode/macosnotary/buildpkg/
 bep/hugomodules/hugo-mod-misc/
 bep/hugomodules/hugo-starter-bootstrap-basic/
@@ -88,13 +76,10 @@ bep/sites/bepsays.com/
 bep/sites/staticbattery.com/
 gohugoio/gocodecore/hugo/
 gohugoio/gocodelibs/gift/
-gohugoio/gocodelibs/go-i18n/
 gohugoio/gocodelibs/go-radix/
 gohugoio/gocodelibs/hashstructure/
 gohugoio/gocodelibs/httpcache/
-gohugoio/gocodelibs/hugo-goldmark-extensions/
 gohugoio/gocodelibs/release/hugoreleaser-archive-plugins/
-gohugoio/gocodelibs/release/hugoreleaser/
 gohugoio/sites/hugoDocs/
 gohugoio/sites/hugoThemesSiteBuilder/
 gohugoio/sites/testing/hugo-testing-git-versions/

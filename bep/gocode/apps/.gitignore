@@ -1,0 +1,21 @@
+# Managed by gitjoin - do not edit this section
+awsapps/s3deploy/
+backup/
+clocks/
+create-a-million-pages/
+firstupdotenv/
+gitjoin/
+gobench/
+gomaintemplate/
+goportabletext/
+gorder/
+helpercommands/
+killswitch/
+mclib/
+mygithelper/
+mygithelper/gocode/firstupdotenv/
+myhugofixer/
+nogo/
+npmgoproxy/
+punused/
+# End gitjoin managed section

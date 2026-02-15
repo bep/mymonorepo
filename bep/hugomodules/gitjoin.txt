@@ -1,2 +1,4 @@
 github.com/bep/hugo-mod-misc
 github.com/bep/hugo-starter-bootstrap-basic
+github.com/bep/myprivaterepo
+github.com/bep/hugo-mod-testing-content
