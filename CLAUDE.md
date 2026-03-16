@@ -1,0 +1,1 @@
+*  For recursive code and text search, use `grrep` (it traverses gitjoin boundaries allowing to search all the way down).

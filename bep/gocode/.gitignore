@@ -1,0 +1,34 @@
+# Managed by gitjoin - do not edit this section
+apps/awsapps/s3deploy/
+apps/backup/
+apps/clocks/
+apps/create-a-million-pages/
+apps/firstupdotenv/
+apps/gitjoin/
+apps/gobench/
+apps/gomaintemplate/
+apps/goportabletext/
+apps/gorder/
+apps/helpercommands/
+apps/killswitch/
+apps/mclib/
+apps/mygithelper/
+apps/mygithelper/gocode/firstupdotenv/
+apps/myhugofixer/
+apps/nogo/
+apps/npmgoproxy/
+apps/punused/
+libs/debounce/
+libs/execrpc/
+libs/gitmap/
+libs/gobench/
+libs/godartsass/
+libs/gojap/
+libs/golibsass/
+libs/golibtemplate/
+libs/golocales/
+libs/helpers/
+libs/imagemeta/
+libs/lazycache/
+macosnotary/buildpkg/
+# End gitjoin managed section

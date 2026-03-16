@@ -7,19 +7,22 @@ github.com/bep/godartsass
 github.com/bep/gojap
 github.com/bep/golibsass
 github.com/bep/golibtemplate
+github.com/bep/golocales
 #github.com/bep/gowebp
 
-#github.com/bep/helpers
+github.com/bep/helpers
 github.com/bep/imagemeta
-#github.com/bep/lazycache
-#github.com/bep/logg
+github.com/bep/lazycache
+github.com/bep/logg
 
 
-#github.com/bep/overlayfs
-#github.com/bep/predicate
-#github.com/bep/semverpair
-#github.com/bep/simplecobra
+github.com/bep/overlayfs
+github.com/bep/predicate
+github.com/bep/semverpair
+github.com/bep/simplecobra
+github.com/bep/textandbinarywriter
+github.com/bep/tmc
+github.com/bep/triebytesmapper
+github.com/bep/semverpair
 
-#github.com/bep/textandbinarywriter
-#github.com/bep/tmc
-#github.com/bep/triebytesmapper
+github.com/bep/gogitignore

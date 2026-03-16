@@ -1,0 +1,18 @@
+# Managed by gitjoin - do not edit this section
+gocodeapps/gotmplfmt/
+gocodecore/hugo/
+gocodelibs/gift/
+gocodelibs/go-radix/
+gocodelibs/hashstructure/
+gocodelibs/httpcache/
+gocodelibs/hugo-goldmark-extensions/
+gocodelibs/release/hugoreleaser-archive-plugins/
+monorepos/hugo-monorepo-modmanager/
+monorepos/hugo-monorepo-modmanager/hugo-mod-jslibs-dist/
+sites/hugoDocs/
+sites/hugoThemesSiteBuilder/
+sites/testing/hugo-testing-git-versions/
+sites/testing/hugoTestModsNPMNested/
+sites/testing/hugoTestModulesJS/
+sites/testing/hugoTestProjectJSModImports/
+# End gitjoin managed section

@@ -1,0 +1,23 @@
+# Managed by gitjoin - do not edit this section
+debounce/
+execrpc/
+gitmap/
+gobench/
+godartsass/
+gogitignore/
+gojap/
+golibsass/
+golibtemplate/
+golocales/
+helpers/
+imagemeta/
+lazycache/
+logg/
+overlayfs/
+predicate/
+semverpair/
+simplecobra/
+textandbinarywriter/
+tmc/
+triebytesmapper/
+# End gitjoin managed section

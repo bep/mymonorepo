@@ -1,0 +1,2 @@
+github.com/bep/mynotes
+github.com/bep/bep
