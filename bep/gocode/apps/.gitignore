@@ -1,5 +1,4 @@
 # Managed by gitjoin - do not edit this section
-awsapps/s3deploy/
 fetch-npm-package/
 firstupdotenv/
 gitjoin/
@@ -10,7 +9,6 @@ grrep/
 helpercommands/
 mclib/
 mygithelper/
-mygithelper/gocode/firstupdotenv/
 myhugofixer/
 nogo/
 npmgoproxy/

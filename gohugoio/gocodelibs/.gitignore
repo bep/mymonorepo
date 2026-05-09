@@ -1,9 +1,7 @@
 # Managed by gitjoin - do not edit this section
 gift/
 go-radix/
-gotmplfmt/
 hashstructure/
 httpcache/
 hugo-goldmark-extensions/
-release/hugoreleaser-archive-plugins/
 # End gitjoin managed section
